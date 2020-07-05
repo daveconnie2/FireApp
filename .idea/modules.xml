@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/861521570/AMZNMediaPlayerComponent.iml" filepath="$PROJECT_DIR$/.idea/modules/861521570/AMZNMediaPlayerComponent.iml" group="Application/AMZNMediaPlayerComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/808355059/AdsInterface.iml" filepath="$PROJECT_DIR$/.idea/modules/808355059/AdsInterface.iml" group="Application/AdsInterface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2122761379/AnalyticsInterface.iml" filepath="$PROJECT_DIR$/.idea/modules/-2122761379/AnalyticsInterface.iml" group="Application/AnalyticsInterface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application.iml" filepath="$PROJECT_DIR$/.idea/modules/Application.iml" group="Application" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1469714585/AuthInterface.iml" filepath="$PROJECT_DIR$/.idea/modules/-1469714585/AuthInterface.iml" group="Application/AuthInterface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/339714916/Calligraphy.iml" filepath="$PROJECT_DIR$/.idea/modules/339714916/Calligraphy.iml" group="Application/Calligraphy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-297761671/ContentBrowser.iml" filepath="$PROJECT_DIR$/.idea/modules/-297761671/ContentBrowser.iml" group="Application/ContentBrowser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1944941754/ContentModel.iml" filepath="$PROJECT_DIR$/.idea/modules/1944941754/ContentModel.iml" group="Application/ContentModel" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1894880551/DataLoader.iml" filepath="$PROJECT_DIR$/.idea/modules/1894880551/DataLoader.iml" group="Application/DataLoader" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1066710004/DynamicParser.iml" filepath="$PROJECT_DIR$/.idea/modules/1066710004/DynamicParser.iml" group="Application/DynamicParser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-707050191/LoggerAnalyticsComponent.iml" filepath="$PROJECT_DIR$/.idea/modules/-707050191/LoggerAnalyticsComponent.iml" group="Application/LoggerAnalyticsComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1722705315/ModuleInterface.iml" filepath="$PROJECT_DIR$/.idea/modules/1722705315/ModuleInterface.iml" group="Application/ModuleInterface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-93602505/PassThroughAdsComponent.iml" filepath="$PROJECT_DIR$/.idea/modules/-93602505/PassThroughAdsComponent.iml" group="Application/PassThroughAdsComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1762282466/PassThroughLoginComponent.iml" filepath="$PROJECT_DIR$/.idea/modules/-1762282466/PassThroughLoginComponent.iml" group="Application/PassThroughLoginComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-888823506/PurchaseInterface.iml" filepath="$PROJECT_DIR$/.idea/modules/-888823506/PurchaseInterface.iml" group="Application/PurchaseInterface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2087951731/TVUIComponent.iml" filepath="$PROJECT_DIR$/.idea/modules/2087951731/TVUIComponent.iml" group="Application/TVUIComponent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/881491353/UAMP.iml" filepath="$PROJECT_DIR$/.idea/modules/881491353/UAMP.iml" group="Application/UAMP" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1556990343/Utils.iml" filepath="$PROJECT_DIR$/.idea/modules/1556990343/Utils.iml" group="Application/Utils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Application/app" />
+    </modules>
+  </component>
+</project>

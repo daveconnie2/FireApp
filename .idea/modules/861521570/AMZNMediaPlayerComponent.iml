@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":AMZNMediaPlayerComponent" external.linked.project.path="$MODULE_DIR$/../../../../AMZNMediaPlayerComponent" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="Application" external.system.module.version="0.7.1.201405082137" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":AMZNMediaPlayerComponent" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="4.0.0" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="2.2.3" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/main/res;file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/debug/res;file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/build/generated/res/rs/debug;file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/androidTest/res;file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/test/res;file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/testDebug/res;file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/build/intermediates/classes/debug" />
+    <output-test url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/build/intermediates/classes/test/debug" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/build/generated/source/aidl/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/build/generated/source/rs/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/build/generated/source/apt/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/build/generated/res/rs/debug" type="java-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/build/generated/res/resValues/debug" type="java-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/build/generated/source/aidl/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/build/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/build/generated/source/rs/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/build/generated/source/apt/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/build/generated/res/rs/androidTest/debug" type="java-test-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/build/generated/res/resValues/androidTest/debug" type="java-test-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/debug/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/debug/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/debug/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/testDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/testDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/testDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/testDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/testDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/testDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/testDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/main/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/androidTest/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/androidTest/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/test/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/test/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/test/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/test/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/src/test/shaders" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../AMZNMediaPlayerComponent/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 23 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:C.\Users\david\Desktop\fire-app-builder\AMZNMediaPlayerComponent\libs\AMZNMediaPlayer.jar:unspecified@jar" level="project" />
+    <orderEntry type="module" module-name="ModuleInterface" exported="" />
+    <orderEntry type="module" module-name="UAMP" exported="" />
+  </component>
+</module>
